@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>DApples🍎</title>
+  
+  
+  <link href="https://itsdapples.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://itsdapples.github.io/"/>
+  <updated>2023-12-25T13:31:00.709Z</updated>
+  <id>https://itsdapples.github.io/</id>
+  
+  <author>
+    <name>DApples</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JoinOpt</title>
+    <link href="https://itsdapples.github.io/posts/JoinOpt.html"/>
+    <id>https://itsdapples.github.io/posts/JoinOpt.html</id>
+    <published>2023-12-23T08:02:42.837Z</published>
+    <updated>2023-12-25T13:31:00.709Z</updated>
+    
+    
+    <summary type="html">允许修改玩家进出信息+自动指令+欢迎消息...</summary>
+    
+    
+    
+    <category term="OptTools" scheme="https://itsdapples.github.io/categories/OptTools/"/>
+    
+    
+    <category term="Java" scheme="https://itsdapples.github.io/tags/Java/"/>
+    
+    <category term="Minecraft" scheme="https://itsdapples.github.io/tags/Minecraft/"/>
+    
+    <category term="OptTools" scheme="https://itsdapples.github.io/tags/OptTools/"/>
+    
+  </entry>
+  
+</feed>
